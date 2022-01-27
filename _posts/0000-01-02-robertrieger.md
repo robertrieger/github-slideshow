@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Success isn't permanent, and failure isn't fatal." -Mike Ditka
 Use the left arrow to go back!
